@@ -1,0 +1,2 @@
+# PROY-G08
+Desarrollo del GRUPO 08 del HACKATHON ITSC 2020
